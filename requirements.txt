@@ -1,0 +1,2 @@
+# Requires: proto-loop
+# (Not available on PyPI)
